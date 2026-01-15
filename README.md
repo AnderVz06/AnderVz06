@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Anderson Velasquez Cahuancama / Ingeniero de software / Backend Developer✨ </h1> 
+<h1 align="center">Hola 👋  soy Anderson Velasquez Cahuancama / Ingeniero de software / Fullstack Developer/ Nodejs / Typescript✨ </h1> 
 
 <p align="left">
 
